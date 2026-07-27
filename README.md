@@ -48,8 +48,6 @@ You are free to use, modify, and share this project with proper attribution.
 
 # 🌟 About Me
 
-# 🌟 About Me
-
 Hi there! 👋
 
 I'm **Atharv Patil**, a final-year B.Tech student in **Electronics and Computer Engineering** with a strong passion for **Data Analytics, Business Intelligence, and Data Engineering**.
